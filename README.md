@@ -11,15 +11,16 @@ Summary
 -----------
 
 1. [Programming Logic]()
-2. [Java]()
+2. [Git and GitHub]()
+3. [Java]()
     * [Springboot]()
     * [Java SE]()
-3. [MySQL]()
-4. [Docker]()
-5. [Web Fundamentals]()
+4. [MySQL]()
+5. [Docker]()
+6. [Web Fundamentals]()
     * [HTML5]()
     * [CSS3]()
     * [JavaScript]()
     * [TypeScript]()
     * [What change between JS and TS?]()
-6. [React]()# studies
+7. [React]()
