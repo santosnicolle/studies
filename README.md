@@ -11,7 +11,7 @@ Summary
 -----------
 
 1. [Programming Logic]()
-2. [Git and GitHub]()
+2. [Git and GitHub](https://github.com/santosnicolle/studies/tree/main/docs/git-github)
 3. [Java]()
     * [Springboot]()
     * [Java SE]()

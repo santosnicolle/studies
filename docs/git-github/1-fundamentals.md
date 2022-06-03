@@ -29,4 +29,4 @@ You can upload public repositories to share your codes with everyone or private 
 If you're reading this your probably at GitHub.
 <img align="center" height="60" src="https://media.giphy.com/media/QmH8OnsBQvC4yn8BnX/giphy.gif">
 
-[Next Page -->](./2-configuration/2-configuration.md)
+[Next Page -->](https://github.com/santosnicolle/studies/blob/main/docs/git-github/2-configuration/2-configuration.md)
